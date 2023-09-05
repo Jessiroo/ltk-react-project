@@ -32,7 +32,7 @@ const BasicForm = () => {
         <Form>
           <div className={classes.input}>
             <label htmlFor="todo">Add To Do:</label>
-            <Field id="todo" name="addToDo" placeholder="TextHere" />
+            <Field id="todo" name="addToDo" placeholder="Text Here" />
           </div>
           <div className={classes.button}>
             <Button type="submit">Submit</Button>
