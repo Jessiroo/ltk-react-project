@@ -1,0 +1,13 @@
+.input {
+  display: flex;
+  flex-direction: column;
+}
+
+.input label, input {
+  margin: 0.25rem 0.5rem 0.25rem;
+}
+
+.button {
+  display: flex;
+  justify-content: right;
+}
